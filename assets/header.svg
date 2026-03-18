@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 130" width="720" height="130">
+  <rect width="720" height="130" fill="transparent"/>
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="'Courier New', Courier, monospace"
+    font-size="15"
+    fill="#00D4FF"
+    white-space="pre"
+    xml:space="preserve"
+  >
+    <tspan x="50%" dy="-2.5em" text-anchor="middle">██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗</tspan>
+    <tspan x="50%" dy="1.2em" text-anchor="middle">██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║</tspan>
+    <tspan x="50%" dy="1.2em" text-anchor="middle">███████║███████║██████╔╝███████╗███████║</tspan>
+    <tspan x="50%" dy="1.2em" text-anchor="middle">██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║</tspan>
+    <tspan x="50%" dy="1.2em" text-anchor="middle">██║  ██║██║  ██║██║  ██║███████║██║  ██║</tspan>
+    <tspan x="50%" dy="1.2em" text-anchor="middle">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝</tspan>
+  </text>
+</svg>
