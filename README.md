@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Always+Curious;Backend+Developer;API+Architect;Database+Person;Full-stack+when+needed;Yes,+I+User+AI;Get's+work+Done)](https://git.io/typing-svg)
 
+*[PortFolio Here](https://kookyharshh.vercel.app/)*
 </div>
 
 <br>
@@ -152,9 +153,8 @@ Web presence for a yearly award ceremony. Designed around presentation and commu
 
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kookyharsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kookyharsh&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=kookyharsh&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kookyharsh&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kookyharsh&theme=tokyonight&hide_border=true)
 
@@ -168,6 +168,7 @@ Web presence for a yearly award ceremony. Designed around presentation and commu
 
 [![Discord](https://img.shields.io/badge/Discord-golem.uwu-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/967437862888960020)
 [![GitHub](https://img.shields.io/badge/GitHub-kookyharsh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kookyharsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kookyharsh-181717?style=flat-square&logo=DevRant&logoColor=white)](https://kookyharshh.vercel.app/)
 
 <br>
 
